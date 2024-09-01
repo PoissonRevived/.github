@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://play.poissonrevived.xyz">
-    <img src="https://poissonrevived.xyz/logo.png" alt="Poisson Revived !" />
+  <a href="https://play.poissonrevived.net">
+    <img src="https://poissonrevived.net/logo.png" alt="Poisson Revived !" />
   </a>
 </p>
 
 
-**Poisson Revived** is a complete revival of **Poisson**. An early Prototype of [**Transformice**](https://transformice.com) which has been lost since 2011 but recently found by Taikohhh and iPedroLB.<br>
+**Poisson Revived** is a complete revival of **Poisson**. An early Prototype of [**Transformice**](https://transformice.com) which has been lost since 2011 but recently found by Taikohhh and RaySollium99.<br>
 
 
-You can play it right now by clicking this link -> https://play.poissonrevived.xyz
+You can play it right now by clicking this link -> https://play.poissonrevived.net
 --
 ---
 ## About
@@ -30,7 +30,7 @@ No one else on the internet, not even the developers themselves, have the source
 
 ---
 ### How did you find this?
-In Late-2021, Taikohhh and iPedroLB started a hunt for this, and we eventually found a bunch of SWF server packs on dead archived websites, and we just combined everything (Server, Client, etc) and tweaked some stuff to make a working Poisson Server.
+In Late-2021, Taikohhh and RaySollium99 started a hunt for this, and we eventually found a bunch of SWF server packs on dead archived websites, and we just combined everything (Server, Client, etc) and tweaked some stuff to make a working Poisson Server.
 
 After a year of searching for these, we managed to make a working Poisson server
 
